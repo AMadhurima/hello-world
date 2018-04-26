@@ -1,9 +1,9 @@
 package hello world;
 
-
-
-public class hellow world {
+public class HellowWorld {
 
 	public static void main(String[] args) {
-	 System.out.println("hellow world");
-   }
+		System.out.println("Hellow World");
+
+	}
+
